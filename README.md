@@ -1,4 +1,4 @@
-# award 👋
+# award
 
 welcome to my portfolio , what you will see is educational purpose tools in the making.
 
